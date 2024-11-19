@@ -5,7 +5,7 @@ Git detaylı türkçe kaynağın bulunmamasından dolayı oluşturulmuştur . An
 
 
 
-[EĞİTİME BAŞLA]()
+[EĞİTİME BAŞLA](https://github.com/archonfly/git-learn-a-z/blob/main/G%C4%B0T/Giri%C5%9F.md)
 
 
 # LİCENSE

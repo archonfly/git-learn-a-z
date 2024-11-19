@@ -1,11 +1,11 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]   
-# Git türkçe dijital el kitabı
+# Git türkçe dijital kitap
+
+Git detaylı türkçe kaynağın bulunmamasından dolayı oluşturulmuştur . Anlaşılır dil kullanmaya özen gösteriyorum . Eğer ki git hakkında bilginiz veya ingilizce bilginiz varsa desteğinizi bekliyorum . Bu depoyu takip etmek için yıldıza tıklayın ve depoyu destekleyin .
 
 
 
-
-
-
+[EĞİTİME BAŞLA]()
 
 
 # LİCENSE
